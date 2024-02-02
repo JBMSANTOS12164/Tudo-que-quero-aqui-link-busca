@@ -1,0 +1,11 @@
+<!---------------------------------------------------------------------------------->
+<!-------------------------COR DO fundo------------------------->
+<!DOCTYPE html><html><head><style>
+body {
+  background-image: url('https://static.vecteezy.com/ti/vetor-gratis/p3/6891114-abstract-gradiente-fundo-primavera-cor-perfeito-para-design-wallpaper-promotion-apresentacao-website-banner-etc-illustration-background-vetor.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style></head><body>
+<!---------------------------------------------------------->
